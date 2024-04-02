@@ -1,0 +1,18 @@
+body {
+  background-color: aliceblue;
+}
+
+.card {
+  padding: 10px;
+  width: 100%;
+}
+
+.home{
+  width: 65px;
+  height: 65px;
+}
+
+.logo {
+  max-width: 100%; /* Garante que a imagem não ultrapasse a largura da barra de navegação */
+  max-height: 100%; /* Garante que a imagem não ultrapasse a altura da barra de navegação */
+}
